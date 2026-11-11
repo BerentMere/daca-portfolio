@@ -7,12 +7,12 @@ Makstakse sulas, kaardiga ja järelmaks. Ilma asukohata tulemusi tuli, aga need 
 - Osalesin meeskonna andmemaastiku koostamisel
 
 ## Peamised õpid
-- [Õppetund 1]
-- [Õppetund 2]
+- [Saab põhjalikumalt leida, et  põhjust, miks võib mingi asi olla NULL.]
+  
 
 ## Failid
-- `week1_[tabel]_exploration.sql` -- minu SQL päringud
-- `week1_results_screenshot.png` -- tulemuste pilt
+- `week1_sales.sql` -- minu SQL päringud
+- `Kuvatommis_1.png, Kuvatommis_2.png, Kuvatommis_3.png` -- tulemuste pilt
 
 ## Meeskonna töö
 - [Link meeskonna Data Landscape slaidile]
