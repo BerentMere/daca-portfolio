@@ -15,5 +15,5 @@ Makstakse sulas, kaardiga ja järelmaks. Ilma asukohata tulemusi tuli, aga need 
 - `week1_results_screenshot1.png, week1_results_screenshot2.png, week1_results_screenshot3.png` -- tulemuste pilt
 
 ## Meeskonna töö
-- [Link meeskonna Data Landscape slaidile]
+- https://docs.google.com/presentation/d/15duT6ha-sxmhAaf42gZj1zVSfvYHL4yzM5Gi4l76k1I/edit?slide=id.p1#slide=id.p1
 
