@@ -12,7 +12,7 @@ Makstakse sulas, kaardiga ja järelmaks. Ilma asukohata tulemusi tuli, aga need 
 
 ## Failid
 - `week1_sales.sql` -- minu SQL päringud
-- `Kuvatommis_1.png, Kuvatommis_2.png, Kuvatommis_3.png` -- tulemuste pilt
+- `week1_results_screenshot1.png, week1_results_screenshot2.png, week1_results_screenshot3.png` -- tulemuste pilt
 
 ## Meeskonna töö
 - [Link meeskonna Data Landscape slaidile]
