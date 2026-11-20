@@ -1,1 +1,13 @@
+Nädala ühistegevus: osakondade sild
+Klienditeenindus: klientide emaile enne puhastamist 2770; pärast andmete puhastamist 2640
 
+
+päring: 
+SELECT COUNT(NULLIF(TRIM(email), '')) AS enne, COUNT(DISTINCT LOWER(NULLIF(TRIM(email), ''))) AS parast FROM customers_test;
+
+
+Tähendus osakonnale:
+pärast duplikaat emailide eemaldamist saame täpsema kampaaniate ja uudiskirjade statistika; klientidele ei saadeta topeltkirju (vähem rämpsposti kaebusi), terviklik kliendivaade (ühe ja sama kliendi ostud ei ole enam killustunud mitme konto vahel); kliendibaasi suurus ja keskmine tulu kliendi kohta on täpsem
+
+
+Kontroll teise meeskonna numbritega : saime ....
