@@ -1,18 +1,17 @@
-# Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
+# Nädal 2: SQL Basics -- UrbanStyle'i andmete puhastamine
 
 ## Mida ma tegin
-- Uurisin sales tabelit SQL päringutega
-- Leidsin, et kauplusi on kolmes linnas(Tallinn, Pärnu, Tartu) ja veebimüük.
-Makstakse sulas, kaardiga ja järelmaks. Ilma asukohata tulemusi tuli(NULL), aga need olid veebimüük. Ehk peaks asendama antud olukorras NULL -> Veeb?
-- Osalesin meeskonna andmemaastiku koostamisel
-
+- Uurisin products tabelit SQL päringutega
+- Otsisin NULL väärtusi. Leidsin ökosertifikaatidel NULL väärtusi. 
+- Leidsin duplikaatseid ridu.
+  
 ## Peamised õpid
-- [Saab põhjalikumalt leida, et  põhjust, miks võib mingi asi olla NULL.]
+- [Saab põhjalikumalt leida, et leida põhjust, miks võib mingi asi olla NULL. Samuti üleliigsete ridade leidmine ja kirjapildi ühtlustamine]
   
 
 ## Failid
-- `week1_sales.sql` -- minu SQL päringud
-- `week1_results_screenshot1.png, week1_results_screenshot2.png, week1_results_screenshot3.png` -- tulemuste pildid.
+- `week2_products.sql` -- minu SQL päringud
+- `week2_customers_cleaning, week2_cross_validation.sql, week2_sales_cleaning` -Meeskonnatöö.
 
 ## Meeskonna töö
-- https://docs.google.com/presentation/d/15duT6ha-sxmhAaf42gZj1zVSfvYHL4yzM5Gi4l76k1I/edit?slide=id.p1#slide=id.p1
+- [https://docs.google.com/presentation/d/1xjhDgs9Knx-YogNU7mxKjI4cbaaV8NJfCxgT2Y7uz2s/edit?slide=id.p1#slide=id.p1]
