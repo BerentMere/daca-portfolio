@@ -5,7 +5,7 @@
 - Otsisin NULL väärtusi. Leidsin ökosertifikaatidel NULL väärtusi. 
 - Leidsin duplikaatseid ridu.
   
-## Peamised õpid
+## Peamiselt õppisin
 - [Saab põhjalikumalt leida, et leida põhjust, miks võib mingi asi olla NULL. Samuti üleliigsete ridade leidmine ja kirjapildi ühtlustamine]
   
 
